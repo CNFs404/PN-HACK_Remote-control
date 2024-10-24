@@ -3,6 +3,11 @@
 
 本项目是一款由易语言制作的远程控制程序，功能齐全，并开源于2024年10月23日。
 
+## 界面展示
+![image](https://github.com/user-attachments/assets/c5c76d59-77e8-4e2b-8aec-e0f64e7272d8)
+![image](https://github.com/user-attachments/assets/6b5fee8e-7e5a-49e4-ab33-1bc485933eaf)
+![image](https://github.com/user-attachments/assets/1936ee52-f4b0-472f-b097-1e65c9ca4738)
+
 ## 项目背景
 
 随着网络技术的发展，远程控制技术在各个领域得到了广泛应用。远程控制技术可以帮助用户在不同地点管理和控制计算机，提高了工作效率和便利性。本项目旨在提供一种简单、易用的远程控制解决方案，满足用户在不同场景下的远程控制需求。
